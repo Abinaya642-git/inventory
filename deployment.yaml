@@ -48,4 +48,4 @@ spec:
   - protocol: TCP
     port: 80
     targetPort: 8080
-    nodePort: 30008
+    nodePort: 30009
